@@ -1,1 +1,3 @@
 # LibClienteMeteo
+
+Otra micro librería, usada, por ejemplo, por LectorMeteo ...
